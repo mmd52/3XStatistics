@@ -20,13 +20,13 @@ The project members are
 selected questions
 * *Climate change and to what extent would people change their lifestyles to protect the environment ?*
 * *Do you think technology is making us more dumb or more smart?*
-new questions
+> new questions
 * At work do you need to be a hard worker or a smart worker ?
 * Considering functionality, user experience, and the app store, which is better, iOS or Android ?
 * Is playing video games a good thing ?
 * Is honesty always the best policy ?
 * Did Russia really meddle in the 2016 US elections ?
-Old Questions
+> Old Questions
 * Was the first moon landing a scam?
 * Is the education provided to us what we need?
 * If you were a superhero for a day? what would you do? who would you be?
