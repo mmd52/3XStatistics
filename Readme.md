@@ -25,3 +25,20 @@ The project members are
 * Is the education provided to us what we need?
 * If you were a superhero for a day? what would you do? who would you be?
 * How do you think we should control our population?
+
+##### Breakup of question
+* Demographic and personal questions
+* Existing information
+* What users are already doing
+* What users will do
+
+*Questions*
+* 1) What is you age? Which country are you from and what is your family's income level?
+* 2) Do you know about global warming?
+* 3) Do you know about the environment summits taking place around the world? If yes can you name any?
+* 4) What kind of activities do you perform to reduce a strain on the environment
+* 5) Where do you get your news from?
+* 6) If you could would you become a vegetarian
+* 7) On a scale of 1-10 how much do you think your country is doing to save the environment
+* 8) Do you know your citys average air quality index? if yes what is it ?
+* 9) On a scale on 1-10 how much would you change your daily life style , if you could see the ecological impact?
