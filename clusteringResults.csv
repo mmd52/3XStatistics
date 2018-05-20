@@ -1,0 +1,83 @@
+SmartPhoneUsagePeriod,SmartPhoneBrand,MainUsagePhone,UsagePeriod,ReasonForBuying,NumApps,DesiredFeature,PurchaseFrequency,Brand,Color,CameraQuality,BatteryLife,OS,Price,ValueForMoney,Recom_Frnd_Fly,Trends,PromotionsAvailable,Call_Text,PrefMsgApp,PaymentGatewayUsage,PriceRange,PhoneDistraction,Country,CountryLiveIn,Age,Top1App,Top2App,Top3App,Top4App,Top5App,Id,CLUSTER,CLUSNAME
+1,Motorola,Texting,4,Features and functions,2,Battery efficiency,1 - 2 years,1,2,1,1,1,1,1,2,2,2,0,WhatsApp,Yes,1,7,India,India,15 - 25,WhatsApp,Appy Geek,YMail,Instagram,Facebook,1,2,CL11
+1,Iphone,Surfing the internet,1,Features and functions,2,USB,1 - 2 years,10,8,10,10,10,8,10,8,9,9,0,WhatsApp,Yes,3,5,Brazil,USA,26 - 35,WhatsApp,Safari,Gallery,Spotify,YouTube,2,1,CL4
+2,Iphone,Taking pictures,2,Features and functions,1,An app that tells you who visits your social midia profiles,3 - 4 years,2,1,3,3,3,3,3,2,3,2,0,WhatsApp,Yes,2,7,Brazil,USA,15 - 25,Instagram,Facebook,Spotify,WhatsApp,Afterlight),3,2,CL11
+1,Iphone,Texting,4,Features and functions,3,Thermometer,1 - 2 years,6,6,10,10,6,10,10,6,7,10,0,Your phones built in messaging service,Yes,2,5,USA,USA,36 - 45,Facebook,Amazon,Waze,Tinder,Grindr,4,1,CL4
+4,Iphone,Social media,2,Features and functions,1,S,Over 4 years,2,2,1,1,1,1,1,1,1,1,0,WhatsApp,Yes,1,8,Brazil,Brazil,46 - 60,Facebook,Instagram,messanger,WhatsApp,face time,5,2,CL11
+1,Iphone,Texting,1,Features and functions,4,Maxmilhas,3 - 4 years,10,7,9,10,10,8,8,6,7,7,0,WhatsApp,Don't use it,2,10,Brazil,Brazil,36 - 45,WhatsApp,,,,,6,1,CL4
+1,Iphone,Surfing the internet,1,Features and functions,2,USB,1 - 2 years,10,8,10,10,10,8,10,8,9,9,0,WhatsApp,Yes,3,5,Brazil,USA,26 - 35,WhatsApp,Safari,Gallery,Spotify,YouTube,7,1,CL4
+2,Samsung,Social media,2,Features and functions,2,Best screens,1 - 2 years,1,1,1,1,1,1,1,1,1,1,0,WhatsApp,Yes,2,9,Brazil,USA,15 - 25,Netflix,hulu,Instagram,WhatsApp,YouTube,8,2,CL11
+1,Huawei,Calling,1,Features and functions,2,Nn lo so,3 - 4 years,2,2,2,2,2,1,2,1,2,1,1,WhatsApp,Don't use it,2,5,Italy,Italy,26 - 35,FBMessenger,GMaps,WhatsApp,Facebook,meteo,9,2,CL11
+1,Samsung,Social media,4,Features and functions,1,Wireless charging,3 - 4 years,4,3,10,10,9,10,10,10,1,1,0,Viber,Don't use it,2,5,Montenegro,Italy,15 - 25,Instagram,Viber,WhatsApp,FBMessenger,Facebook,10,1,CL4
+1,Iphone,Social media,3,Features and functions,1,Something that i can use instead of creating passwords for everything,1 - 2 years,10,10,9,9,8,10,10,10,10,10,0,WhatsApp,Yes,2,10,Mexico,Canada,26 - 35,Whatsapp,Facebook,Instagram,Safari,pinterest,11,1,CL4
+2,Iphone,Social media,2,Features and functions,2,Free music,3 - 4 years,4,10,10,10,10,10,10,10,10,10,0,WhatsApp,No,2,5,Colombia,Canada,26 - 35,WhatsApp,Facebook,Instagram,Outlook,Snapchat,12,1,CL4
+1,Iphone,Navigation,3,Features and functions,2,Paying,1 - 2 years,10,1,10,10,10,7,1,1,1,1,0,WhatsApp,Don't use it,2,10,Brazil,Brazil,26 - 35,WhatsApp,Waze,Facebook,Instagram,Spotify,13,1,CL4
+2,Infinix,Social media,4,Features and functions,3,Not sure,1 - 2 years,7,5,9,6,10,8,10,5,8,9,1,WhatsApp,Don't use it,1,9,Kenya,Italy,26 - 35,Whatsapp,Instagram,Facebook,YouTube,email,14,1,CL4
+2,Samsung,Social media,3,Features and functions,2,"What? Question is not clear, feature of the phone? Or the apps?",1 - 2 years,2,3,4,8,2,4,8,2,1,7,0,WhatsApp,Don't use it,1,3,Chile,Italy,26 - 35,WhatsApp,GMaps,GMail,YouTube,drive,15,3,CL5
+1,Iphone,Surfing the internet,4,Status from the brand,1,Download Music For Free,3 - 4 years,10,10,10,10,10,10,8,2,8,10,0,WhatsApp,Yes,2,7,Colombia,Canada,36 - 45,Facebook,Instagram,snapshat,WhatsApp,utube,16,1,CL4
+1,Iphone,Texting,4,Features and functions,2,Go Pro,3 - 4 years,8,5,10,6,10,6,6,6,6,5,0,WhatsApp,Don't use it,3,7,USA,Italy,26 - 35,WhatsApp,LinkedIn,Airbnb,BankAccount,calendar,17,1,CL4
+1,Motorola,Social media,3,Features and functions,1,Radio station.,3 - 4 years,1,1,2,2,2,1,1,2,2,1,0,Your phones built in messaging service,Don't use it,1,6,India,India,36 - 45,Facebook,WhatsApp,YouTube,Outlook,,18,2,CL11
+1,Samsung,Surfing the internet,3,Features and functions,3,Unlocking all apps via facial recognition,1 - 2 years,3,3,2,1,1,1,1,3,3,2,1,WhatsApp,Yes,2,7,India,USA,36 - 45,GMaps,SamsungPay,Google chrome,YouTube,banking apps,19,2,CL11
+1,Samsung,Surfing the internet,3,Features and functions,3,Unlocking all apps via facial recognition,1 - 2 years,3,3,2,1,1,1,1,3,3,2,1,WhatsApp,Yes,2,7,India,USA,36 - 45,GMaps,SamsungPay,Google chrome,YouTube,banking apps,20,2,CL11
+1,Samsung,Social media,3,Features and functions,3,None,3 - 4 years,1,2,1,1,1,2,2,2,1,1,0,WhatsApp,Yes,2,9,India,USA,36 - 45,Facebook,WhatsApp,Robinhood,Scoop,,21,2,CL11
+1,Huawei,Social media,4,Features and functions,3,Security,1 - 2 years,1,1,1,1,1,1,1,2,2,2,0,WhatsApp,Don't use it,2,8,India,India,26 - 35,Whatsapp,Facebook,Instagram,WynkMusic,Quora,22,2,CL11
+2,Iphone,Surfing the internet,4,Features and functions,2,,1 - 2 years,8,5,10,10,10,8,10,9,7,8,0,WhatsApp,Don't use it,2,5,India,USA,26 - 35,Google,WhatsApp,GMaps,Facebook,Mail,23,1,CL4
+1,Xiaomi,Surfing the internet,3,Features and functions,2,None,1 - 2 years,5,10,8,4,4,3,3,10,8,3,0,WhatsApp,Yes,1,2,Kazakhstan,USA,26 - 35,GMail,Chrome,GMaps,Spotify,WhatsApp,24,4,CL9
+1,Huawei,Calling,1,Features and functions,2,que se responda solo,3 - 4 years,2,2,1,1,1,1,1,2,2,1,1,WhatsApp,Don't use it,2,8,Colombia,Colomb,Over 60,Facebook,WhatsApp,Skype,Gallery,music,25,2,CL11
+1,Iphone,Surfing the internet,3,Features and functions,4,Nothing,3 - 4 years,7,1,3,1,1,1,1,1,1,1,1,WhatsApp,No,2,3,Italy,Italy,36 - 45,Safari,,,,,26,2,CL11
+1,Samsung,Calling,3,Features and functions,2,App Data recovery,3 - 4 years,2,2,1,1,1,1,1,1,1,1,1,WhatsApp,Don't use it,2,9,India,Austra,36 - 45,Whatsapp,Duo,LinkedIn,Facebook,googlemap,27,2,CL11
+1,Iphone,Calling,3,Features and functions,3,DSLR,3 - 4 years,2,2,1,1,2,2,1,3,2,2,1,WhatsApp,No,2,5,India,Canada,26 - 35,Facebook,GMail,WhatsApp,YouTube,messenger,28,2,CL11
+1,HTC,Surfing the internet,4,Features and functions,3,Battery life,1 - 2 years,8,10,9,2,3,1,4,7,6,5,0,WhatsApp,Don't use it,2,10,India,USA,26 - 35,Reddit,WhatsApp,Facebook,GMaps,GMail,29,4,CL9
+3,Google,Calling,1,Features and functions,2,Facial Recognition,3 - 4 years,10,8,8,10,10,10,10,10,10,8,1,WhatsApp,No,1,8,India,India,26 - 35,Uber,GMaps,YouTube,WSOP,GMAIL,30,1,CL4
+2,Samsung,Social media,1,Features and functions,2,Movie player,1 - 2 years,2,2,1,1,1,1,2,2,2,2,0,WhatsApp,Don't use it,2,7,Mexico,Canada,26 - 35,WhatsApp,Facebook,Instagram,google,wheater,31,2,CL11
+1,Google,Social media,4,Features and functions,2,Privacy,3 - 4 years,1,1,1,1,1,1,1,1,1,1,1,WhatsApp,Don't use it,2,7,Mexico,Canada,26 - 35,Whatsapp,Facebook,Instagram,Hotmail,gmail.,32,2,CL11
+2,Samsung,Social media,2,Features and functions,1,Payments,3 - 4 years,8,6,8,8,8,6,8,6,1,8,1,WhatsApp,Yes,3,2,Colombia,Italy,36 - 45,WhatsApp,Facebook,GMaps,planner,,33,3,CL5
+1,Iphone,Texting,3,Features and functions,2,I don?t know,1 - 2 years,1,3,1,1,1,1,1,3,3,3,0,Your phones built in messaging service,Don't use it,1,5,Brazil,USA,36 - 45,Netflix,what?s up,Facebook,YouTube,Amazon,34,2,CL11
+2,Lenovo,Calling,3,Features and functions,2,Hdmi,3 - 4 years,2,1,1,1,2,2,1,1,2,2,1,WhatsApp,Don't use it,2,8,India,India,36 - 45,WhatsApp,Scanner,Facebook,GMaps,Weather,35,2,CL11
+3,Vivo,Calling,4,Price,2,Nothing,3 - 4 years,2,1,2,1,2,1,1,2,2,1,0,WhatsApp,No,1,4,India,India,36 - 45,Whatsapp,YouTube,Paytm,,,36,2,CL11
+1,Iphone,Calling,1,Features and functions,1,I don?t,1 - 2 years,5,1,1,1,1,1,1,4,4,4,1,WhatsApp,No,1,3,India,India,36 - 45,Truecaller,Facebook,WhatsApp,GMail,yahoo,37,2,CL11
+1,Samsung,Calling,3,Features and functions,1,Savings control,1 - 2 years,2,2,1,1,1,1,1,2,2,1,0,WhatsApp,Don't use it,1,9,Mexico,Canada,26 - 35,WhatsApp,Myfitnessp,sunlife,canada trus,meetup.com,38,2,CL11
+1,Samsung,Calling,4,Features and functions,2,None,1 - 2 years,1,1,1,1,1,1,1,1,1,1,1,WhatsApp,Yes,1,6,Colombia,Canada,46 - 60,WhatsApp,Instagram,Facebook,telegram,runner,39,2,CL11
+1,Iphone,Surfing the internet,3,Features and functions,2,Handfree option like Alexa,3 - 4 years,9,9,10,10,8,8,8,8,8,9,0,WhatsApp,No,2,9,India,USA,36 - 45,Facebook,LinkedIn,Zomato,Priceline,Skype,40,1,CL4
+1,Iphone,Calling,3,Features and functions,2,Wireless charging,3 - 4 years,9,4,5,7,9,8,9,9,7,8,0,WhatsApp,Yes,2,5,Colombia,Canada,36 - 45,WhatsApp,Flipboard,Facebook,Twitter,Spotify,41,3,CL5
+3,Iphone,Texting,4,Features and functions,1,Face ID,Over 4 years,7,10,10,10,10,8,10,10,10,10,0,WhatsApp,No,2,10,India,India,15 - 25,WhatsApp,Quick,VLC,Instagram,Facebook,42,1,CL4
+1,Samsung,Texting,4,Features and functions,1,big data sharing app,3 - 4 years,4,3,10,10,10,10,9,8,4,10,0,WhatsApp,Don't use it,1,8,Ethiopia,Italy,26 - 35,WhatsApp,LinkedIn,Viber,,,43,1,CL4
+1,Iphone,Texting,2,Status from the brand,2,Space,3 - 4 years,10,6,9,10,10,5,8,5,5,5,0,WhatsApp,Don't use it,3,10,Honduras,Italy,26 - 35,WhatsApp,GMaps,Yummly,Safari,WIMB,44,1,CL4
+1,Iphone,Texting,3,Features and functions,1,Take better photos,3 - 4 years,5,3,8,9,6,7,10,2,4,1,0,WhatsApp,No,1,4,Germany,Italy,26 - 35,Whatsapp,outlook,Facebook,dkb (online,zeit (newspa,45,3,CL5
+1,Iphone,Surfing the internet,2,Status from the brand,2,Holographic projections!,1 - 2 years,8,3,6,6,7,4,5,6,7,5,0,WhatsApp,Yes,2,7,Canada,Italy,36 - 45,Whatsapp,Instagram,GMail,Spotify,BBC News,46,3,CL5
+1,LG,Texting,3,Features and functions,2,Nothing,Over 4 years,6,1,7,7,4,8,8,5,1,6,0,WhatsApp,Don't use it,1,2,USA,Italy,15 - 25,WhatsApp,reddit is,LINE,Facebook,GMaps,47,3,CL5
+1,Huawei,Surfing the internet,4,Features and functions,1,,3 - 4 years,1,2,1,1,1,2,1,2,2,1,0,Skype,Don't use it,2,6,Japan,Italy,36 - 45,Facebook,Instagram,WhatsApp,Skype,wechat,48,2,CL11
+1,Lenovo,Surfing the internet,2,Features and functions,2,,3 - 4 years,5,1,4,8,8,8,8,8,8,8,1,WhatsApp,Don't use it,2,4,India,Italy,15 - 25,Instagram,GMail,GMaps,Snapchat,Telegram,49,3,CL5
+1,Iphone,Social media,4,Status from the brand,2,I don?t know,1 - 2 years,9,5,10,10,10,7,9,6,7,8,1,WhatsApp,Don't use it,2,8,Italy,Italy,15 - 25,Whatsapp,Instagram,Facebook,YouTube,Spotify,50,1,CL4
+1,Samsung,Surfing the internet,1,Status from the brand,3,VR,3 - 4 years,4,10,7,1,3,8,2,9,6,5,0,WhatsApp,No,2,5,India,USA,46 - 60,Facebook,,,,,51,4,CL9
+1,Iphone,Social media,3,Features and functions,1,Automatic charging,3 - 4 years,8,6,9,10,10,8,6,5,4,6,1,WhatsApp,Don't use it,1,7,Italy,Italy,15 - 25,Whatsapp,Facebook,Instagram,GMail,InShot,52,1,CL4
+1,Motorola,Social media,1,Features and functions,1,none,3 - 4 years,5,4,4,8,8,8,8,4,4,8,0,WhatsApp,Don't use it,1,7,France,Italy,36 - 45,WhatsApp,Gallery,linkedIn,calendar,email,53,3,CL5
+2,Samsung,Calling,3,Cost,1,,Over 4 years,1,1,1,1,1,1,1,2,2,1,1,Your phones built in messaging service,No,1,3,USA,USA,26 - 35,LinkedIn,GMail,,,,54,2,CL11
+1,Iphone,Social media,1,Features and functions,3,?,3 - 4 years,5,6,10,10,10,10,10,5,5,5,0,Your phones built in messaging service,No,2,10,USA,USA,46 - 60,SnapChat,Instagram,Facebook,Safari,text,55,1,CL4
+1,Samsung,Surfing the internet,3,Features and functions,2,Turn off for required time,3 - 4 years,1,2,1,1,1,1,1,1,1,2,1,WhatsApp,Don't use it,2,10,India,USA,36 - 45,GMail,Facebook,GMaps,google,linkedIn,56,2,CL11
+3,Huawei,Texting,1,Features and functions,2,Don't understand the question,1 - 2 years,6,7,6,8,6,8,8,5,5,7,0,WhatsApp,Don't use it,1,6,Hungary,Italy,26 - 35,Whatsapp,GMail,FBMessenger,Weather,fbook,57,3,CL5
+2,Samsung,Texting,2,Features and functions,3,none,Over 4 years,6,4,5,6,6,6,4,4,2,6,0,WhatsApp,No,1,5,Italy,Italy,36 - 45,WhatsApp,firefox,RassegnaStamp,SamsungMusi,shazam,58,3,CL5
+1,Huawei,Surfing the internet,3,Features and functions,2,None,3 - 4 years,2,2,1,1,1,1,1,2,2,1,0,WhatsApp,Don't use it,1,9,Uganda,Italy,26 - 35,Whatsapp,Facebook,linkedIn,BankAccount,Instagram,59,2,CL11
+1,Iphone,Texting,2,Status from the brand,2,nothing,3 - 4 years,7,8,6,9,9,9,6,5,4,6,1,WhatsApp,Don't use it,2,9,Italy,Italy,26 - 35,WhatsApp,Facebook,Instagram,GMaps,GMail,60,1,CL4
+1,Google,Surfing the internet,2,Features and functions,4,Dual sim,1 - 2 years,2,3,3,3,3,3,2,1,1,1,0,WhatsApp,Yes,2,8,India,India,15 - 25,WhatsApp,Instagram,Newstand,Facebook,Chrome,61,2,CL11
+1,Lenovo,Social media,4,Features and functions,2,Holograms,3 - 4 years,2,2,1,1,1,1,1,2,1,1,0,WhatsApp,No,1,9,India,India,15 - 25,WhatsApp,Instagram,YouTube,Chrome,Flipkart,62,2,CL11
+1,Iphone,Surfing the internet,3,Status from the brand,1,I don?t know,3 - 4 years,9,4,8,9,9,6,7,6,6,6,1,WhatsApp,Don't use it,2,8,Italy,Italy,36 - 45,Whatsapp,YouTube,Facebook,Instagram,Spotify.,63,1,CL4
+2,Motorola,Calling,1,Features and functions,4,Charge without elecricity,1 - 2 years,2,2,1,1,1,1,1,2,2,2,1,WhatsApp,Don't use it,1,7,India,India,15 - 25,WhatsApp,AmazonPrim,SonyLiv,TOI,Hotstar,64,2,CL11
+1,Samsung,Texting,1,Features and functions,1,Nothing,Over 4 years,2,2,2,1,1,1,2,1,2,1,0,WhatsApp,Don't use it,2,6,Brazil,Brazil,36 - 45,Whatsapp,Twitter,CandyCrush,Waze,BrB banknet,65,2,CL11
+1,Iphone,Social media,2,Status from the brand,2,Photos,1 - 2 years,1,10,3,4,5,2,6,7,9,8,0,WhatsApp,Yes,2,8,Colombia,Colomb,36 - 45,Facebook,Instagram,WhatsApp,photos,Deezer,66,4,CL9
+1,Iphone,Playing games,3,Features and functions,2,Nothing,3 - 4 years,9,7,8,9,9,8,8,9,7,8,1,WhatsApp,Yes,3,7,Brazil,Brazil,26 - 35,Bank,WhatsApp,Facebook,Instagram,airline comp,67,1,CL4
+2,Iphone,Texting,3,Features and functions,1,Reload,1 - 2 years,8,5,5,8,8,8,8,8,1,8,0,WhatsApp,Yes,2,10,Colombia,Colomb,36 - 45,CamScanner,Radio,Linio,DaviPlata,WhatsApp,68,3,CL5
+2,Iphone,Calling,1,Features and functions,2,More baterry life,1 - 2 years,10,9,8,10,10,10,10,9,1,1,0,WhatsApp,Don't use it,2,7,Colombia,Colomb,36 - 45,Waze,Traductor,TripAdvisor,WhatsApp,Facebook,69,1,CL4
+1,Samsung,Surfing the internet,4,Features and functions,2,none,Over 4 years,3,2,8,8,8,8,6,4,2,8,1,WhatsApp,Don't use it,1,4,Italy,Italy,26 - 35,WhatsApp,linkedIn,GMail,amazon,skyscanner,70,3,CL5
+1,Iphone,Texting,3,Features and functions,2,-,3 - 4 years,8,5,7,6,5,8,7,5,3,4,0,WhatsApp,Don't use it,2,9,Colombia,Italy,26 - 35,Airbnb,Splitwise,Bank,GoEuro,Uber,71,3,CL5
+2,Xiaomi,Surfing the internet,4,Features and functions,3,No idea,3 - 4 years,4,4,1,1,2,3,1,10,10,10,1,WhatsApp,No,1,7,India,India,15 - 25,MoneyContro,whatsapp,UCBrowser,YouTube,paytm,72,4,CL9
+3,Iphone,Surfing the internet,3,Features and functions,1,File manager,1 - 2 years,4,2,6,6,6,5,5,3,3,3,1,WhatsApp,Yes,2,6,India,Italy,26 - 35,FBMessenger,Instagram,WhatsApp,Inshrorts,Duo,73,3,CL5
+1,Samsung,Texting,2,Features and functions,1,lenghtening battery,1 - 2 years,6,4,10,10,7,9,7,7,4,7,0,WhatsApp,Don't use it,2,9,Italy,Italy,15 - 25,WhatsApp,Instagram,Facebook,GMaps,spotify,74,1,CL4
+1,Xiaomi,Calling,3,Features and functions,2,Don't leak data please,3 - 4 years,1,2,1,1,1,1,1,1,2,2,1,WhatsApp,Don't use it,1,8,India,India,15 - 25,Paytm,WhatsApp,Facebook,Instagram,Ola,75,2,CL11
+1,Iphone,Texting,3,Features and functions,2,Automatic turn off after charged phone,3 - 4 years,4,3,3,7,7,5,7,7,4,6,1,WhatsApp,Yes,2,7,Italy,Italy,26 - 35,Whatsapp,FBMessenge,GMaps,Note,Safari,76,3,CL5
+1,Iphone,Social media,2,Status from the brand,4,the charger and earphones plug in iphone,3 - 4 years,8,8,8,8,8,5,8,8,8,8,0,WhatsApp,Don't use it,3,10,Venezuela,Italy,15 - 25,Facebook,FBMessenge,WhatsApp,Spotify,linkedIn,77,1,CL4
+1,Samsung,Social media,1,Features and functions,2,N/a,Over 4 years,1,1,3,3,3,2,3,3,3,3,0,WhatsApp,No,2,3,Canada,Canada,36 - 45,WhatsApp,Instagram,Facebook,paybyphone,,78,2,CL11
+2,Xiaomi,Texting,4,Features and functions,3,Projector,1 - 2 years,1,6,5,4,7,10,9,2,3,8,0,WhatsApp,Don't use it,1,7,India,Italy,15 - 25,WhatsApp,Duolingo,Instagram,LinkedIn,,79,3,CL5
+3,Xiaomi,Social media,4,Features and functions,4,Wireless Charging,3 - 4 years,9,7,3,4,5,6,8,2,1,10,0,WhatsApp,Don't use it,1,2,India,Canada,15 - 25,WhatsApp,MortalKomb,Maps,Outlook,,80,3,CL5
+4,Motorola,Calling,1,Features and functions,2,Backup,Over 4 years,10,9,8,7,6,5,4,3,2,1,1,WhatsApp,Don't use it,3,1,India,India,46 - 60,Maps,Gmail,Outlook,Gallery,,81,3,CL5
+4,Sony,Calling,3,Features and functions,1,none,Over 4 years,1,2,3,4,10,6,5,7,8,9,1,WhatsApp,Don't use it,1,1,India,India,Over 60,WhatsApp,,,,,82,3,CL5
