@@ -2,7 +2,7 @@
 
 3X Statistics is a statistics project created by 4 students completing their Masters in Data Science at the Bologna Business School
 
-> The topic for 3X is *To be Decided*. The data has been collected from random people around the globe.  The main Business problem that is being solved here is  *To be Decided*
+> The topic for 3X is *The different ways we use our smartphones*. The data has been collected from random people around the globe.  The main Business problem that is being solved here is  *to cluster our customers in order to understand what kind of cellphone do our customers need or which segment should we target*
 
 The project members are
 
@@ -11,43 +11,20 @@ The project members are
 * Patricia Londono
 * Abraham Chandy
 
-#### What is expected?
-* We need to select a topic in which we could ask either binary or categorical responses.
-* We can ask for numeical numbers, provided it is a single number , however no text responses
-* The topic should be such that the data collected on it can used for clustering
+##### Thought
+> Whatever data goes into clustering needs to be numeric.
+> The professor used few columns for clustering and few to explain those clusters.
+> He finally used the hierarchical clustering (Single linkage and ward).
+> He then compared each cluster with the entire population to see what makes the cluster unique.
 
-#### Topics
-selected questions
-* *Climate change and to what extent would people change their lifestyles to protect the environment ?*
-* *Do you think technology is making us more dumb or more smart?*
-> new questions
-* At work do you need to be a hard worker or a smart worker ?
-* Considering functionality, user experience, and the app store, which is better, iOS or Android ?
-* Is playing video games a good thing ?
-* Is honesty always the best policy ?
-* Did Russia really meddle in the 2016 US elections ?
-> Old Questions
-* Was the first moon landing a scam?
-* Is the education provided to us what we need?
-* If you were a superhero for a day? what would you do? who would you be?
-* How do you think we should control our population?
-* Would you change your country and why would you change or not?
-* Would you like to escape death if medical science allows you?
+ 
+#### In order to recreate this -
+ 
+* I wrote some code in python (please look at it and comment on the column's selected by me for clustering and the columns left out for explanation) -> https://github.com/mmd52/3XStatistics/blob/master/DataRearrangement_3XStats.ipynb
+* Next like the professor did I ran clustering using single and ward method. And got better results using ward method ->  https://github.com/mmd52/3XStatistics/blob/master/NitroScript.sas
+* The new data file we will refer to is known as data_d 
 
-
-##### Breakup of question
-* Demographic and personal questions
-* Existing information
-* What users are already doing
-* What users will do
-
-*Questions*
-* 1) What is you age? Which country are you from and what is your family's income level?
-* 2) Do you know about global warming?
-* 3) Do you know about the environment summits taking place around the world? If yes can you name any?
-* 4) What kind of activities do you perform to reduce a strain on the environment
-* 5) Where do you get your news from?
-* 6) If you could would you become a vegetarian
-* 7) On a scale of 1-10 how much do you think your country is doing to save the environment
-* 8) Do you know your citys average air quality index? if yes what is it ?
-* 9) On a scale on 1-10 how much would you change your daily life style , if you could see the ecological impact?
+#### What is expected? 
+* Use PCA and see if we get a better clustering result
+* Label rows with cluster names and for each cluster understand important variables defining the cluster. Simultaneously comparing each cluster with the population
+* Use columns that we left out to understand what defines the cluster using vis tools like Tableau/Power BI Etc Etc
