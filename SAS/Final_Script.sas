@@ -145,3 +145,91 @@ proc export data=stat.final
 run;
 
 *Great So clustering is over saving the results======================================================;
+
+*Analyze the clustering;
+proc freq data=stat.final;
+table cluster;
+run;
+
+*Combining the population with clustering reults. Since I have 4 clusters my population is cluster 5;
+data stat.data_population;
+set stat.final;
+cluster=5;
+run;
+
+
+data stat.pop_cluster_data;
+set stat.final stat.data_population;
+run;
+
+*Analyze the clustering with the population;
+proc freq data=stat.pop_cluster_data;
+table cluster;
+run;
+* Perfection now we need to comapre our clusters with the population and see what makes them unique;
+
+* For cluster 1;
+proc ttest data=stat.pop_cluster_data;
+var new1-new10;
+where cluster=1 or cluster=5;
+class cluster;
+ods output ttests=stat.ttest_1;
+run;
+/*
+ * Interpretation -
+ */
+
+proc print data=stat.ttest_1;
+run;
+
+
+* For cluster 2;
+proc ttest data=stat.pop_cluster_data;
+var new1-new10;
+where cluster=2 or cluster=5;
+class cluster;
+ods output ttests=stat.ttest_2;
+run;
+/*
+ * Interpretation -
+ */
+
+proc print data=stat.ttest_2;
+run;
+
+
+* For cluster 3;
+proc ttest data=stat.pop_cluster_data;
+var new1-new10;
+where cluster=3 or cluster=5;
+class cluster;
+ods output ttests=stat.ttest_3;
+run;
+/*
+ * Interpretation -
+ */
+
+proc print data=stat.ttest_3;
+run;
+
+
+* For cluster 4;
+proc ttest data=stat.pop_cluster_data;
+var new1-new10;
+where cluster=4 or cluster=45;
+class cluster;
+ods output ttests=stat.ttest_4;
+run;
+/*
+ * Interpretation -
+ */
+
+proc print data=stat.ttest_4;
+run;
+
+*====================== Evaluation of clusters is over finally now, using external variables now;
+*====================== to understand why the clusters are formed;
+
+proc freq data=stat.pop_cluster_data;
+table age*cluster / chisq expected;
+run;
