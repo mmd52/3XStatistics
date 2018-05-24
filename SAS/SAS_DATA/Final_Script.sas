@@ -143,6 +143,14 @@ proc export data=stat.final
    dbms=csv
    replace;
 run;
+*===================================================================================================;
+*Load and Store data in workspace;
+proc import datafile = '/folders/myfolders/MDS/SAS/3XStatistics/clusteringResults_24_05_2018.csv'
+out = stat.final
+dbms = csv
+replace;
+run;
+*===================================================================================================;
 
 *Great So clustering is over saving the results======================================================;
 
@@ -160,6 +168,12 @@ run;
 
 data stat.pop_cluster_data;
 set stat.final stat.data_population;
+run;
+
+proc export data=stat.pop_cluster_data
+   outfile='/folders/myfolders/MDS/SAS/3XStatistics/ClusterPopulationData.csv'
+   dbms=csv
+   replace;
 run;
 
 *Analyze the clustering with the population;
@@ -216,7 +230,7 @@ run;
 * For cluster 4;
 proc ttest data=stat.pop_cluster_data;
 var new1-new10;
-where cluster=4 or cluster=45;
+where cluster=4 or cluster=5;
 class cluster;
 ods output ttests=stat.ttest_4;
 run;
