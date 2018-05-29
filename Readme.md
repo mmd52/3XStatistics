@@ -11,4 +11,5 @@ The project members are
 * Patricia Londono
 * Abraham Chandy
 
-#### The final Script is [here](https://github.com/mmd52/3XStatistics/blob/master/3XStats_Final_ToPresent.ipynb)
+#### The Final Script is [here](https://github.com/mmd52/3XStatistics/blob/master/3XStats_Final_ToPresent.ipynb)
+#### The PPT is [here](https://github.com/mmd52/3XStatistics/blob/master/Statistics%20project.pdf)
