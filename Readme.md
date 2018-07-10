@@ -1,21 +1,11 @@
-## 3X Statistics Project
+## Customer Segmentation - The different ways we use our smartphones
 
-3X Statistics is a statistics project created by 4 students completing their Masters in Data Science at the Bologna Business School
-
-> The topic for 3X is *The different ways we use our smartphones*. The data has been collected from random people around the globe.  The main Business problem that is being solved here is  *to cluster our customers in order to understand what kind of cellphone do our customers need or which segment should we target*
-
-The project members are
-
-* Mohammed Topiwalla
-* Fernanda De Oliveira Guimarae
-* Patricia Londono
-* Abraham Chandy
+> *The different ways we use our smartphones* - The data has been collected from random people around the globe.  The main Business problem that is being solved here is  *to cluster our customers in order to understand what kind of cellphone do our customers need or which segment should we target*
 
 #### The Final Script is [here](https://github.com/mmd52/3XStatistics/blob/master/3XStats_Final_ToPresent.ipynb)
-#### The PPT is [here](https://github.com/mmd52/3XStatistics/blob/master/Statistics%20project.pdf)
-#### The Fancy PPT is [here](https://github.com/mmd52/3XStatistics/blob/master/3X.pdf)
+#### The PPT is [here](https://github.com/mmd52/3XStatistics/blob/master/PPT.pdf)
 
-### What we did
+### What was done
 1. In order to start we need some data. We obtained the data by taking a survey of 18 questions. The survey was sent to different people across the globe, although most of the responses came mainly from India and Italy we decided to go ahead.
 The survey sits [here](https://docs.google.com/forms/d/e/1FAIpQLSeMWT5EjAZf5cbvTpESTGIQn-WCaNTSVJsgaQfr7I8YJevusw/viewform) 
 2. Well in order to segment clusters to identify what each segment wants in a phone we need to do ****clustering****. And before doing clustering we need clean data.
