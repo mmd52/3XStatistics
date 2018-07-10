@@ -2,7 +2,7 @@
 
 > *The different ways we use our smartphones* - The data has been collected from random people around the globe.  The main Business problem that is being solved here is  *to cluster our customers in order to understand what kind of cellphone do our customers need or which segment should we target*
 
-#### The Final Script is [here](https://github.com/mmd52/3XStatistics/blob/master/3XStats_Final_ToPresent.ipynb)
+#### The Final Script is [here](https://github.com/mmd52/3XStatistics/blob/master/Customer_Segmentation.ipynb)
 #### The PPT is [here](https://github.com/mmd52/3XStatistics/blob/master/PPT.pdf)
 
 ### What was done
